@@ -1,2 +1,2 @@
-# doimkvtc.py
+# Tooks đổi mật khẩu VTC nhanh thông qua chat bot Telegram.
 Firt Tools được viết bởi Claude, ChatGpt, vietdung6 ...
